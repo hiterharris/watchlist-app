@@ -1,0 +1,6 @@
+{
+	"appId": "com.Watchlist.hiterharris.app",
+	"appName": "watchlist-app",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

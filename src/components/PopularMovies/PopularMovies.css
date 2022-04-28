@@ -1,0 +1,11 @@
+.movie {
+    height: 30vh;
+    width: 30vw;
+    padding-right: 16px;
+    font-size: 12px;
+    text-align: left;
+}
+
+.movie_poster {
+    width: 100%;
+}
